@@ -19,14 +19,15 @@ ASSIGNMENT_part1
                font-size: 4em ;
         }
         #abh3{
-             font-size: 5vh;
+             margin: 5vh;
+         font-size: 7em ;
+             
         }
         #abh4{
-            font-size: 5vw;
+            margin: 5vw;
+         font-size: 6em ;
         }
-        #abh5{
-            font-size: 15px;
-        }
+      
 
     </style>
 </head>
